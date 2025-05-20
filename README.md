@@ -1,7 +1,7 @@
 # Hospital-Management-System
-# Reg No:19-05-2025
-# DATE:
-### NAME: Madhan S
+# DATE:19-05-20205
+### NAME: HARSHITH M
+### REG NO:212224040206
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
