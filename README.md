@@ -2,6 +2,7 @@
 # Reg No:19-05-2025
 # DATE:
 ### NAME: Madhan S
+### REG NO: 212224040175
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
